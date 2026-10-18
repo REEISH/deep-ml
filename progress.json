@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-10-18T13:07:57.540Z",
+  "items": {
+    "lab:9": {
+      "kind": "lab",
+      "id": "9",
+      "title": "Design Your Own Activation Function",
+      "difficulty": "easy",
+      "category": "Activation Functions",
+      "url": "https://www.deep-ml.com/labs/9",
+      "path": "labs/0009-design-your-own-activation-function",
+      "first_solved_at": "2026-10-18T13:07:53.072Z",
+      "last_pushed_at": "2026-10-18T13:07:53.072Z",
+      "language": "python",
+      "lines": 23
+    }
+  }
+}
