@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**5** solved · 0 problems · 5 labs · 0 math
+**6** solved · 0 problems · 5 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Design Your Own Optimizer (NumPy)](https://www.deep-ml.com/labs/8) | medium | 2026-10-22 | [solution](labs/0008-design-your-own-optimizer-numpy) |
 | [PyTorch: Implement Your Own Gradient Descent Training Step](https://www.deep-ml.com/labs/12) | medium | 2026-10-24 | [solution](labs/0012-pytorch-implement-your-own-gradient-descent-training-step) |
 | [MNIST: Classification Loss (with Gradient)](https://www.deep-ml.com/labs/4) | hard | 2026-10-21 | [solution](labs/0004-mnist-classification-loss-with-gradient) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Logistic Regression as Maximum Likelihood](https://www.deep-ml.com/math-problems/40) | medium | 2026-10-26 | [solution](math/0040-logistic-regression-as-maximum-likelihood) |
 
 ---
 
