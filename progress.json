@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T17:31:35.992Z",
+  "generated_at": "2026-10-26T17:33:55.133Z",
   "items": {
     "lab:9": {
       "kind": "lab",
@@ -87,6 +87,19 @@
       "path": "labs/0011-data-preprocessing-handling-missing-values",
       "first_solved_at": "2026-10-26T17:31:35.224Z",
       "last_pushed_at": "2026-10-26T17:31:35.224Z",
+      "language": "python",
+      "lines": 26
+    },
+    "lab:18": {
+      "kind": "lab",
+      "id": "18",
+      "title": "Train a Linear Regression Model",
+      "difficulty": "easy",
+      "category": "Regression",
+      "url": "https://www.deep-ml.com/labs/18",
+      "path": "labs/0018-train-a-linear-regression-model",
+      "first_solved_at": "2026-10-26T17:33:54.389Z",
+      "last_pushed_at": "2026-10-26T17:33:54.389Z",
       "language": "python",
       "lines": 26
     }
