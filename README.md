@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**8** solved · 0 problems · 7 labs · 1 math
+**9** solved · 0 problems · 8 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Design Your Own Activation Function](https://www.deep-ml.com/labs/9) | easy | 2026-10-18 | [solution](labs/0009-design-your-own-activation-function) |
 | [PyTorch: Build a Complete Training Loop](https://www.deep-ml.com/labs/13) | easy | 2026-10-24 | [solution](labs/0013-pytorch-build-a-complete-training-loop) |
+| [Train a Binary Classifier](https://www.deep-ml.com/labs/23) | easy | 2026-10-26 | [solution](labs/0023-train-a-binary-classifier) |
 | [Train a Linear Regression Model](https://www.deep-ml.com/labs/18) | easy | 2026-10-26 | [solution](labs/0018-train-a-linear-regression-model) |
 | [Data Preprocessing: Handling Missing Values](https://www.deep-ml.com/labs/11) | medium | 2026-10-26 | [solution](labs/0011-data-preprocessing-handling-missing-values) |
 | [Design Your Own Optimizer (NumPy)](https://www.deep-ml.com/labs/8) | medium | 2026-10-22 | [solution](labs/0008-design-your-own-optimizer-numpy) |
