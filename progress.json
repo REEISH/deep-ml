@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T08:40:01.015Z",
+  "generated_at": "2026-11-03T08:45:41.852Z",
   "items": {
     "lab:9": {
       "kind": "lab",
@@ -137,6 +137,17 @@
       "path": "math/0043-model-selection-cv-aic-and-bic",
       "first_solved_at": "2026-10-27T08:39:59.956Z",
       "last_pushed_at": "2026-10-27T08:39:59.956Z"
+    },
+    "math:41": {
+      "kind": "math",
+      "id": "41",
+      "title": "The EM Algorithm",
+      "difficulty": "medium",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/41",
+      "path": "math/0041-the-em-algorithm",
+      "first_solved_at": "2026-11-03T08:45:39.944Z",
+      "last_pushed_at": "2026-11-03T08:45:39.944Z"
     }
   }
 }
