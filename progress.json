@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T08:47:43.465Z",
+  "generated_at": "2026-11-03T08:49:46.514Z",
   "items": {
     "lab:9": {
       "kind": "lab",
@@ -159,6 +159,17 @@
       "path": "math/0027-statistical-inference",
       "first_solved_at": "2026-11-03T08:47:42.825Z",
       "last_pushed_at": "2026-11-03T08:47:42.825Z"
+    },
+    "math:29": {
+      "kind": "math",
+      "id": "29",
+      "title": "Probabilistic Models",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/29",
+      "path": "math/0029-probabilistic-models",
+      "first_solved_at": "2026-11-03T08:49:45.531Z",
+      "last_pushed_at": "2026-11-03T08:49:45.531Z"
     }
   }
 }
