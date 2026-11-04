@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T04:48:05.159Z",
+  "generated_at": "2026-11-04T04:58:41.817Z",
   "items": {
     "lab:9": {
       "kind": "lab",
@@ -203,6 +203,17 @@
       "path": "math/0189-the-graph-laplacian-its-eigenvectors-and-spectral-clustering",
       "first_solved_at": "2026-11-04T04:48:04.379Z",
       "last_pushed_at": "2026-11-04T04:48:04.379Z"
+    },
+    "math:264": {
+      "kind": "math",
+      "id": "264",
+      "title": "Catastrophic Forgetting as Curvature-Weighted Displacement",
+      "difficulty": "easy",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/264",
+      "path": "math/0264-catastrophic-forgetting-as-curvature-weighted-displacement",
+      "first_solved_at": "2026-11-04T04:58:41.195Z",
+      "last_pushed_at": "2026-11-04T04:58:41.195Z"
     }
   }
 }
