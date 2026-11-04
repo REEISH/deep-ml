@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T05:11:34.973Z",
+  "generated_at": "2026-11-04T10:00:37.464Z",
   "items": {
     "lab:9": {
       "kind": "lab",
@@ -225,6 +225,17 @@
       "path": "math/0271-three-scenarios-task-domain-and-class-incremental-learning",
       "first_solved_at": "2026-11-04T05:11:34.145Z",
       "last_pushed_at": "2026-11-04T05:11:34.145Z"
+    },
+    "math:266": {
+      "kind": "math",
+      "id": "266",
+      "title": "Measuring Continual Learners: The Accuracy Matrix, BWT and FWT",
+      "difficulty": "easy",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/266",
+      "path": "math/0266-measuring-continual-learners-the-accuracy-matrix-bwt-and-fwt",
+      "first_solved_at": "2026-11-04T10:00:36.154Z",
+      "last_pushed_at": "2026-11-04T10:00:36.154Z"
     }
   }
 }
