@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T13:53:49.366Z",
+  "generated_at": "2026-11-04T04:39:23.153Z",
   "items": {
     "lab:9": {
       "kind": "lab",
@@ -181,6 +181,17 @@
       "path": "math/0044-class-imbalance-and-proper-scoring",
       "first_solved_at": "2026-11-03T13:53:48.187Z",
       "last_pushed_at": "2026-11-03T13:53:48.187Z"
+    },
+    "math:188": {
+      "kind": "math",
+      "id": "188",
+      "title": "Random Walks, PageRank and the Stationary Distribution",
+      "difficulty": "medium",
+      "category": "Graph Neural Networks",
+      "url": "https://www.deep-ml.com/math-problems/188",
+      "path": "math/0188-random-walks-pagerank-and-the-stationary-distribution",
+      "first_solved_at": "2026-11-04T04:39:21.649Z",
+      "last_pushed_at": "2026-11-04T04:39:21.649Z"
     }
   }
 }
