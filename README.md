@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**16** solved · 0 problems · 8 labs · 8 math
+**17** solved · 0 problems · 8 labs · 9 math
 
 ![Coverage](./coverage.svg)
 
@@ -32,6 +32,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Random Walks, PageRank and the Stationary Distribution](https://www.deep-ml.com/math-problems/188) | medium | 2026-11-04 | [solution](math/0188-random-walks-pagerank-and-the-stationary-distribution) |
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-11-03 | [solution](math/0027-statistical-inference) |
 | [The EM Algorithm](https://www.deep-ml.com/math-problems/41) | medium | 2026-11-03 | [solution](math/0041-the-em-algorithm) |
+| [The Graph Laplacian, Its Eigenvectors and Spectral Clustering](https://www.deep-ml.com/math-problems/189) | medium | 2026-11-04 | [solution](math/0189-the-graph-laplacian-its-eigenvectors-and-spectral-clustering) |
 | [Probabilistic Models](https://www.deep-ml.com/math-problems/29) | hard | 2026-11-03 | [solution](math/0029-probabilistic-models) |
 
 ---

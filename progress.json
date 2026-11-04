@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T04:39:23.153Z",
+  "generated_at": "2026-11-04T04:48:05.159Z",
   "items": {
     "lab:9": {
       "kind": "lab",
@@ -192,6 +192,17 @@
       "path": "math/0188-random-walks-pagerank-and-the-stationary-distribution",
       "first_solved_at": "2026-11-04T04:39:21.649Z",
       "last_pushed_at": "2026-11-04T04:39:21.649Z"
+    },
+    "math:189": {
+      "kind": "math",
+      "id": "189",
+      "title": "The Graph Laplacian, Its Eigenvectors and Spectral Clustering",
+      "difficulty": "medium",
+      "category": "Graph Neural Networks",
+      "url": "https://www.deep-ml.com/math-problems/189",
+      "path": "math/0189-the-graph-laplacian-its-eigenvectors-and-spectral-clustering",
+      "first_solved_at": "2026-11-04T04:48:04.379Z",
+      "last_pushed_at": "2026-11-04T04:48:04.379Z"
     }
   }
 }
