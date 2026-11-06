@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T10:00:37.464Z",
+  "generated_at": "2026-11-06T18:26:12.585Z",
   "items": {
     "lab:9": {
       "kind": "lab",
@@ -236,6 +236,17 @@
       "path": "math/0266-measuring-continual-learners-the-accuracy-matrix-bwt-and-fwt",
       "first_solved_at": "2026-11-04T10:00:36.154Z",
       "last_pushed_at": "2026-11-04T10:00:36.154Z"
+    },
+    "math:155": {
+      "kind": "math",
+      "id": "155",
+      "title": "The Fourier Transform and the Convolution Theorem",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/155",
+      "path": "math/0155-the-fourier-transform-and-the-convolution-theorem",
+      "first_solved_at": "2026-11-06T18:26:11.868Z",
+      "last_pushed_at": "2026-11-06T18:26:11.868Z"
     }
   }
 }
