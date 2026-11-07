@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T18:26:12.585Z",
+  "generated_at": "2026-11-07T10:45:43.210Z",
   "items": {
     "lab:9": {
       "kind": "lab",
@@ -247,6 +247,19 @@
       "path": "math/0155-the-fourier-transform-and-the-convolution-theorem",
       "first_solved_at": "2026-11-06T18:26:11.868Z",
       "last_pushed_at": "2026-11-06T18:26:11.868Z"
+    },
+    "lab:36": {
+      "kind": "lab",
+      "id": "36",
+      "title": "Design Your Own PTQ",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/labs/36",
+      "path": "labs/0036-design-your-own-ptq",
+      "first_solved_at": "2026-11-07T10:45:42.279Z",
+      "last_pushed_at": "2026-11-07T10:45:42.279Z",
+      "language": "python",
+      "lines": 46
     }
   }
 }
