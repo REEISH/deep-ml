@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**23** solved · 0 problems · 9 labs · 14 math
+**24** solved · 0 problems · 9 labs · 15 math
 
 ![Coverage](./coverage.svg)
 
@@ -34,6 +34,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bias–Variance Decomposition](https://www.deep-ml.com/math-problems/39) | medium | 2026-10-27 | [solution](math/0039-bias-variance-decomposition) |
 | [Logistic Regression as Maximum Likelihood](https://www.deep-ml.com/math-problems/40) | medium | 2026-10-26 | [solution](math/0040-logistic-regression-as-maximum-likelihood) |
 | [Margins and Soft-Margin SVMs](https://www.deep-ml.com/math-problems/42) | medium | 2026-11-08 | [solution](math/0042-margins-and-soft-margin-svms) |
+| [PPO Clipped Surrogate Objective](https://www.deep-ml.com/math-problems/53) | medium | 2026-11-08 | [solution](math/0053-ppo-clipped-surrogate-objective) |
 | [Random Walks, PageRank and the Stationary Distribution](https://www.deep-ml.com/math-problems/188) | medium | 2026-11-04 | [solution](math/0188-random-walks-pagerank-and-the-stationary-distribution) |
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-11-03 | [solution](math/0027-statistical-inference) |
 | [The EM Algorithm](https://www.deep-ml.com/math-problems/41) | medium | 2026-11-03 | [solution](math/0041-the-em-algorithm) |

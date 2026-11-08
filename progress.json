@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T15:38:45.496Z",
+  "generated_at": "2026-11-08T18:22:04.241Z",
   "items": {
     "lab:9": {
       "kind": "lab",
@@ -271,6 +271,17 @@
       "path": "math/0042-margins-and-soft-margin-svms",
       "first_solved_at": "2026-11-08T15:38:44.847Z",
       "last_pushed_at": "2026-11-08T15:38:44.847Z"
+    },
+    "math:53": {
+      "kind": "math",
+      "id": "53",
+      "title": "PPO Clipped Surrogate Objective",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/53",
+      "path": "math/0053-ppo-clipped-surrogate-objective",
+      "first_solved_at": "2026-11-08T18:22:03.507Z",
+      "last_pushed_at": "2026-11-08T18:22:03.507Z"
     }
   }
 }
