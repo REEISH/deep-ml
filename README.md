@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**24** solved · 0 problems · 9 labs · 15 math
+**25** solved · 0 problems · 9 labs · 16 math
 
 ![Coverage](./coverage.svg)
 
@@ -36,6 +36,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Margins and Soft-Margin SVMs](https://www.deep-ml.com/math-problems/42) | medium | 2026-11-08 | [solution](math/0042-margins-and-soft-margin-svms) |
 | [PPO Clipped Surrogate Objective](https://www.deep-ml.com/math-problems/53) | medium | 2026-11-08 | [solution](math/0053-ppo-clipped-surrogate-objective) |
 | [Random Walks, PageRank and the Stationary Distribution](https://www.deep-ml.com/math-problems/188) | medium | 2026-11-04 | [solution](math/0188-random-walks-pagerank-and-the-stationary-distribution) |
+| [Roofline: Time is the Max of Bytes/BW and FLOPs/Peak](https://www.deep-ml.com/math-problems/64) | medium | 2026-11-08 | [solution](math/0064-roofline-time-is-the-max-of-bytes-bw-and-flops-peak) |
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-11-03 | [solution](math/0027-statistical-inference) |
 | [The EM Algorithm](https://www.deep-ml.com/math-problems/41) | medium | 2026-11-03 | [solution](math/0041-the-em-algorithm) |
 | [The Fourier Transform and the Convolution Theorem](https://www.deep-ml.com/math-problems/155) | medium | 2026-11-06 | [solution](math/0155-the-fourier-transform-and-the-convolution-theorem) |
