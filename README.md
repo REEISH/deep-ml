@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**27** solved · 0 problems · 11 labs · 16 math
+**28** solved · 0 problems · 11 labs · 17 math
 
 ![Coverage](./coverage.svg)
 
@@ -28,6 +28,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Bytes in the KV Cache (MHA, GQA, MQA, MLA)](https://www.deep-ml.com/math-problems/62) | easy | 2026-11-09 | [solution](math/0062-bytes-in-the-kv-cache-mha-gqa-mqa-mla) |
 | [Catastrophic Forgetting as Curvature-Weighted Displacement](https://www.deep-ml.com/math-problems/264) | easy | 2026-11-04 | [solution](math/0264-catastrophic-forgetting-as-curvature-weighted-displacement) |
 | [Class Imbalance and Proper Scoring](https://www.deep-ml.com/math-problems/44) | easy | 2026-11-03 | [solution](math/0044-class-imbalance-and-proper-scoring) |
 | [Measuring Continual Learners: The Accuracy Matrix, BWT and FWT](https://www.deep-ml.com/math-problems/266) | easy | 2026-11-04 | [solution](math/0266-measuring-continual-learners-the-accuracy-matrix-bwt-and-fwt) |
