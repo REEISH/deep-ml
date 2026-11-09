@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T18:26:56.049Z",
+  "generated_at": "2026-11-09T07:18:21.935Z",
   "items": {
     "lab:9": {
       "kind": "lab",
@@ -293,6 +293,19 @@
       "path": "math/0064-roofline-time-is-the-max-of-bytes-bw-and-flops-peak",
       "first_solved_at": "2026-11-08T18:26:55.244Z",
       "last_pushed_at": "2026-11-08T18:26:55.244Z"
+    },
+    "lab:21": {
+      "kind": "lab",
+      "id": "21",
+      "title": "Fix Overfitting with Regularization (NumPy)",
+      "difficulty": "medium",
+      "category": "Regularized Regression",
+      "url": "https://www.deep-ml.com/labs/21",
+      "path": "labs/0021-fix-overfitting-with-regularization-numpy",
+      "first_solved_at": "2026-11-09T07:18:21.278Z",
+      "last_pushed_at": "2026-11-09T07:18:21.278Z",
+      "language": "python",
+      "lines": 95
     }
   }
 }
