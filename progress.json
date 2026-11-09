@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T07:18:21.935Z",
+  "generated_at": "2026-11-09T07:20:36.639Z",
   "items": {
     "lab:9": {
       "kind": "lab",
@@ -306,6 +306,19 @@
       "last_pushed_at": "2026-11-09T07:18:21.278Z",
       "language": "python",
       "lines": 95
+    },
+    "lab:22": {
+      "kind": "lab",
+      "id": "22",
+      "title": "Fix Overfitting with Regularization (Sklearn)",
+      "difficulty": "easy",
+      "category": "Regularized Regression",
+      "url": "https://www.deep-ml.com/labs/22",
+      "path": "labs/0022-fix-overfitting-with-regularization-sklearn",
+      "first_solved_at": "2026-11-09T07:20:35.982Z",
+      "last_pushed_at": "2026-11-09T07:20:35.982Z",
+      "language": "python",
+      "lines": 69
     }
   }
 }
