@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T12:41:41.088Z",
+  "generated_at": "2026-11-10T18:07:07.222Z",
   "items": {
     "lab:9": {
       "kind": "lab",
@@ -369,6 +369,19 @@
       "last_pushed_at": "2026-11-10T12:41:39.917Z",
       "language": "python",
       "lines": 131
+    },
+    "lab:2": {
+      "kind": "lab",
+      "id": "2",
+      "title": "MNIST: Design-Your-Own tiny Pytorch Model",
+      "difficulty": "medium",
+      "category": "Model Architecture",
+      "url": "https://www.deep-ml.com/labs/2",
+      "path": "labs/0002-mnist-design-your-own-tiny-pytorch-model",
+      "first_solved_at": "2026-11-10T18:07:06.129Z",
+      "last_pushed_at": "2026-11-10T18:07:06.129Z",
+      "language": "python",
+      "lines": 69
     }
   }
 }
