@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T12:31:49.368Z",
+  "generated_at": "2026-11-10T12:41:41.088Z",
   "items": {
     "lab:9": {
       "kind": "lab",
@@ -356,6 +356,19 @@
       "last_pushed_at": "2026-11-10T12:31:48.253Z",
       "language": "python",
       "lines": 69
+    },
+    "lab:26": {
+      "kind": "lab",
+      "id": "26",
+      "title": "Build a Tree for a Random Forest",
+      "difficulty": "hard",
+      "category": "Ensembles",
+      "url": "https://www.deep-ml.com/labs/26",
+      "path": "labs/0026-build-a-tree-for-a-random-forest",
+      "first_solved_at": "2026-11-10T12:41:39.917Z",
+      "last_pushed_at": "2026-11-10T12:41:39.917Z",
+      "language": "python",
+      "lines": 131
     }
   }
 }
