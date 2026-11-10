@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T12:14:24.072Z",
+  "generated_at": "2026-11-10T12:21:33.553Z",
   "items": {
     "lab:9": {
       "kind": "lab",
@@ -330,6 +330,19 @@
       "path": "math/0062-bytes-in-the-kv-cache-mha-gqa-mqa-mla",
       "first_solved_at": "2026-11-09T12:14:23.352Z",
       "last_pushed_at": "2026-11-09T12:14:23.352Z"
+    },
+    "lab:3480fd6b-ee7a-4afd-ba4b-5c934aeab10b": {
+      "kind": "lab",
+      "id": "3480fd6b-ee7a-4afd-ba4b-5c934aeab10b",
+      "title": "MLP with Dropout and BatchNorm",
+      "difficulty": "medium",
+      "category": "PyTorch Fundamentals",
+      "url": "https://www.deep-ml.com/labs/3480fd6b-ee7a-4afd-ba4b-5c934aeab10b",
+      "path": "labs/3480fd6b-ee7a-4afd-ba4b-5c934aeab10b-mlp-with-dropout-and-batchnorm",
+      "first_solved_at": "2026-11-10T12:21:32.778Z",
+      "last_pushed_at": "2026-11-10T12:21:32.778Z",
+      "language": "python",
+      "lines": 51
     }
   }
 }
