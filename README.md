@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**33** solved · 0 problems · 16 labs · 17 math
+**34** solved · 0 problems · 17 labs · 17 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Design Your Own Attention Mechanism](https://www.deep-ml.com/labs/10) | medium | 2026-11-11 | [solution](labs/0010-design-your-own-attention-mechanism) |
 | [Design Your Own Optimizer (NumPy)](https://www.deep-ml.com/labs/8) | medium | 2026-10-22 | [solution](labs/0008-design-your-own-optimizer-numpy) |
 | [Design Your Own PTQ](https://www.deep-ml.com/labs/36) | medium | 2026-11-07 | [solution](labs/0036-design-your-own-ptq) |
+| [Design Your Own Tabular Classifier](https://www.deep-ml.com/labs/35) | medium | 2026-11-12 | [solution](labs/0035-design-your-own-tabular-classifier) |
 | [Fix Overfitting with Regularization (NumPy)](https://www.deep-ml.com/labs/21) | medium | 2026-11-09 | [solution](labs/0021-fix-overfitting-with-regularization-numpy) |
 | [MLP with Dropout and BatchNorm](https://www.deep-ml.com/labs/3480fd6b-ee7a-4afd-ba4b-5c934aeab10b) | medium | 2026-11-10 | [solution](labs/3480fd6b-ee7a-4afd-ba4b-5c934aeab10b-mlp-with-dropout-and-batchnorm) |
 | [MNIST: Design-Your-Own tiny Pytorch Model](https://www.deep-ml.com/labs/2) | medium | 2026-11-10 | [solution](labs/0002-mnist-design-your-own-tiny-pytorch-model) |
