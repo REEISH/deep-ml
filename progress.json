@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T05:42:57.090Z",
+  "generated_at": "2026-11-14T06:53:10.760Z",
   "items": {
     "lab:9": {
       "kind": "lab",
@@ -421,6 +421,19 @@
       "last_pushed_at": "2026-11-14T05:42:56.438Z",
       "language": "python",
       "lines": 48
+    },
+    "lab:20": {
+      "kind": "lab",
+      "id": "20",
+      "title": "Build a Digit Classifier from Scratch",
+      "difficulty": "hard",
+      "category": "Classification",
+      "url": "https://www.deep-ml.com/labs/20",
+      "path": "labs/0020-build-a-digit-classifier-from-scratch",
+      "first_solved_at": "2026-11-14T06:53:09.952Z",
+      "last_pushed_at": "2026-11-14T06:53:09.952Z",
+      "language": "python",
+      "lines": 58
     }
   }
 }
