@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**34** solved · 0 problems · 17 labs · 17 math
+**35** solved · 0 problems · 18 labs · 17 math
 
 ![Coverage](./coverage.svg)
 
@@ -28,6 +28,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [MNIST: Fix Very Deep Network Training](https://www.deep-ml.com/labs/7) | medium | 2026-11-10 | [solution](labs/0007-mnist-fix-very-deep-network-training) |
 | [PyTorch: Implement Your Own Gradient Descent Training Step](https://www.deep-ml.com/labs/12) | medium | 2026-10-24 | [solution](labs/0012-pytorch-implement-your-own-gradient-descent-training-step) |
 | [Build a Tree for a Random Forest](https://www.deep-ml.com/labs/26) | hard | 2026-11-10 | [solution](labs/0026-build-a-tree-for-a-random-forest) |
+| [MNIST: Adversarial Example Generation](https://www.deep-ml.com/labs/5) | hard | 2026-11-14 | [solution](labs/0005-mnist-adversarial-example-generation) |
 | [MNIST: Classification Loss (with Gradient)](https://www.deep-ml.com/labs/4) | hard | 2026-10-21 | [solution](labs/0004-mnist-classification-loss-with-gradient) |
 
 ## Math

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T07:23:35.181Z",
+  "generated_at": "2026-11-14T05:42:57.090Z",
   "items": {
     "lab:9": {
       "kind": "lab",
@@ -408,6 +408,19 @@
       "last_pushed_at": "2026-11-12T07:23:34.074Z",
       "language": "python",
       "lines": 317
+    },
+    "lab:5": {
+      "kind": "lab",
+      "id": "5",
+      "title": "MNIST: Adversarial Example Generation",
+      "difficulty": "hard",
+      "category": "Adversarial Robustness",
+      "url": "https://www.deep-ml.com/labs/5",
+      "path": "labs/0005-mnist-adversarial-example-generation",
+      "first_solved_at": "2026-11-14T05:42:56.438Z",
+      "last_pushed_at": "2026-11-14T05:42:56.438Z",
+      "language": "python",
+      "lines": 48
     }
   }
 }
