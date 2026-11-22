@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**39** solved · 0 problems · 20 labs · 19 math
+**40** solved · 0 problems · 20 labs · 20 math
 
 ![Coverage](./coverage.svg)
 
@@ -55,6 +55,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [The Fourier Transform and the Convolution Theorem](https://www.deep-ml.com/math-problems/155) | medium | 2026-11-06 | [solution](math/0155-the-fourier-transform-and-the-convolution-theorem) |
 | [The Graph Laplacian, Its Eigenvectors and Spectral Clustering](https://www.deep-ml.com/math-problems/189) | medium | 2026-11-04 | [solution](math/0189-the-graph-laplacian-its-eigenvectors-and-spectral-clustering) |
 | [The Weisfeiler-Lehman Test and What Message Passing Cannot Distinguish](https://www.deep-ml.com/math-problems/192) | medium | 2026-11-22 | [solution](math/0192-the-weisfeiler-lehman-test-and-what-message-passing-cannot-distinguish) |
+| [Word2Vec Negative Sampling Objective](https://www.deep-ml.com/math-problems/147) | medium | 2026-11-22 | [solution](math/0147-word2vec-negative-sampling-objective) |
 | [Probabilistic Models](https://www.deep-ml.com/math-problems/29) | hard | 2026-11-03 | [solution](math/0029-probabilistic-models) |
 
 ---

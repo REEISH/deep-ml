@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T07:06:33.779Z",
+  "generated_at": "2026-11-22T11:55:29.298Z",
   "items": {
     "lab:9": {
       "kind": "lab",
@@ -469,6 +469,17 @@
       "path": "math/0192-the-weisfeiler-lehman-test-and-what-message-passing-cannot-distinguish",
       "first_solved_at": "2026-11-22T07:06:33.100Z",
       "last_pushed_at": "2026-11-22T07:06:33.100Z"
+    },
+    "math:147": {
+      "kind": "math",
+      "id": "147",
+      "title": "Word2Vec Negative Sampling Objective",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/147",
+      "path": "math/0147-word2vec-negative-sampling-objective",
+      "first_solved_at": "2026-11-22T11:55:28.628Z",
+      "last_pushed_at": "2026-11-22T11:55:28.628Z"
     }
   }
 }
