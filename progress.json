@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T10:39:10.409Z",
+  "generated_at": "2026-11-22T06:45:26.094Z",
   "items": {
     "lab:9": {
       "kind": "lab",
@@ -447,6 +447,17 @@
       "last_pushed_at": "2026-11-21T10:39:09.206Z",
       "language": "python",
       "lines": 72
+    },
+    "math:191": {
+      "kind": "math",
+      "id": "191",
+      "title": "Over-Smoothing: Message Passing as a Low-Pass Filter",
+      "difficulty": "medium",
+      "category": "Graph Neural Networks",
+      "url": "https://www.deep-ml.com/math-problems/191",
+      "path": "math/0191-over-smoothing-message-passing-as-a-low-pass-filter",
+      "first_solved_at": "2026-11-22T06:45:25.053Z",
+      "last_pushed_at": "2026-11-22T06:45:25.053Z"
     }
   }
 }

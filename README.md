@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**37** solved · 0 problems · 20 labs · 17 math
+**38** solved · 0 problems · 20 labs · 18 math
 
 ![Coverage](./coverage.svg)
 
@@ -46,6 +46,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bias–Variance Decomposition](https://www.deep-ml.com/math-problems/39) | medium | 2026-10-27 | [solution](math/0039-bias-variance-decomposition) |
 | [Logistic Regression as Maximum Likelihood](https://www.deep-ml.com/math-problems/40) | medium | 2026-10-26 | [solution](math/0040-logistic-regression-as-maximum-likelihood) |
 | [Margins and Soft-Margin SVMs](https://www.deep-ml.com/math-problems/42) | medium | 2026-11-08 | [solution](math/0042-margins-and-soft-margin-svms) |
+| [Over-Smoothing: Message Passing as a Low-Pass Filter](https://www.deep-ml.com/math-problems/191) | medium | 2026-11-22 | [solution](math/0191-over-smoothing-message-passing-as-a-low-pass-filter) |
 | [PPO Clipped Surrogate Objective](https://www.deep-ml.com/math-problems/53) | medium | 2026-11-08 | [solution](math/0053-ppo-clipped-surrogate-objective) |
 | [Random Walks, PageRank and the Stationary Distribution](https://www.deep-ml.com/math-problems/188) | medium | 2026-11-04 | [solution](math/0188-random-walks-pagerank-and-the-stationary-distribution) |
 | [Roofline: Time is the Max of Bytes/BW and FLOPs/Peak](https://www.deep-ml.com/math-problems/64) | medium | 2026-11-08 | [solution](math/0064-roofline-time-is-the-max-of-bytes-bw-and-flops-peak) |
