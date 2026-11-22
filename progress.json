@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T06:45:26.094Z",
+  "generated_at": "2026-11-22T07:06:33.779Z",
   "items": {
     "lab:9": {
       "kind": "lab",
@@ -458,6 +458,17 @@
       "path": "math/0191-over-smoothing-message-passing-as-a-low-pass-filter",
       "first_solved_at": "2026-11-22T06:45:25.053Z",
       "last_pushed_at": "2026-11-22T06:45:25.053Z"
+    },
+    "math:192": {
+      "kind": "math",
+      "id": "192",
+      "title": "The Weisfeiler-Lehman Test and What Message Passing Cannot Distinguish",
+      "difficulty": "medium",
+      "category": "Graph Neural Networks",
+      "url": "https://www.deep-ml.com/math-problems/192",
+      "path": "math/0192-the-weisfeiler-lehman-test-and-what-message-passing-cannot-distinguish",
+      "first_solved_at": "2026-11-22T07:06:33.100Z",
+      "last_pushed_at": "2026-11-22T07:06:33.100Z"
     }
   }
 }
