@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**41** solved · 0 problems · 20 labs · 21 math
+**42** solved · 0 problems · 20 labs · 22 math
 
 ![Coverage](./coverage.svg)
 
@@ -45,6 +45,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Three Scenarios: Task-, Domain- and Class-Incremental Learning](https://www.deep-ml.com/math-problems/271) | easy | 2026-11-04 | [solution](math/0271-three-scenarios-task-domain-and-class-incremental-learning) |
 | [AUC as the Probability of Ranking a Positive Above a Negative](https://www.deep-ml.com/math-problems/128) | medium | 2026-11-22 | [solution](math/0128-auc-as-the-probability-of-ranking-a-positive-above-a-negative) |
 | [Bias–Variance Decomposition](https://www.deep-ml.com/math-problems/39) | medium | 2026-10-27 | [solution](math/0039-bias-variance-decomposition) |
+| [Link Prediction: Scoring, Negative Sampling and Ranking Metrics](https://www.deep-ml.com/math-problems/194) | medium | 2026-11-22 | [solution](math/0194-link-prediction-scoring-negative-sampling-and-ranking-metrics) |
 | [Logistic Regression as Maximum Likelihood](https://www.deep-ml.com/math-problems/40) | medium | 2026-10-26 | [solution](math/0040-logistic-regression-as-maximum-likelihood) |
 | [Margins and Soft-Margin SVMs](https://www.deep-ml.com/math-problems/42) | medium | 2026-11-08 | [solution](math/0042-margins-and-soft-margin-svms) |
 | [Over-Smoothing: Message Passing as a Low-Pass Filter](https://www.deep-ml.com/math-problems/191) | medium | 2026-11-22 | [solution](math/0191-over-smoothing-message-passing-as-a-low-pass-filter) |
